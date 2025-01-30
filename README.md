@@ -11,10 +11,10 @@ Bem-vindo! Esse projeto tem como seu objetivo, demostra meu conhecimento, e motr
 
 ## Funcionalidades
 
-- Temas dark e light
-- Preview em tempo real
-- Modo tela cheia
-- Multiplataforma
+- Tela Inicial
+- Tela de Contato
+- Tela de Projetos
+- Tela de Serviços 
 
 
 ## Deploy
@@ -22,11 +22,11 @@ Bem-vindo! Esse projeto tem como seu objetivo, demostra meu conhecimento, e motr
 Para fazer o deploy desse projeto rode
 
 ```bash
-  npm run deploy
+  git clone (URL DO PROJETO)
 ```
 
 
 ## Autores
 
-- [@octokatherine](https://github.com/PedroRafael13)
+- [@PedroRafael13](https://github.com/PedroRafael13)
 
