@@ -7,11 +7,6 @@ Bem-vindo(a) ao meu portfólio! Este projeto foi criado para compartilhar minha 
 ## Screenshots
 
 ![App Screenshot](assets/Doc/demostraçao.png)
-[App Screenshot](assets/Doc/aboutme.png)
-[App Screenshot](assets/Doc/service.png)
-[App Screenshot](assets/Doc/project.png)
-[App Screenshot](assets/Doc/contanct.png)
-[App Screenshot](assets/Doc/mobile.png)
 
 ## Funcionalidades
 
