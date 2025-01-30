@@ -1,13 +1,17 @@
 
 # Pedro Rafael | Dev
 
-Bem-vindo! Esse projeto tem como seu objetivo, demostra meu conhecimento, e motrar os projetos que realizei 
+Bem-vindo(a) ao meu portfólio! Este projeto foi criado para compartilhar minha jornada, demonstrar minhas habilidades e exibir os projetos que desenvolvi ao longo do tempo. Aqui você encontrará um pouco do meu trabalho e do conhecimento que adquiri. Sinta-se à vontade para explorar e conhecer mais sobre o que faço!
 
 
 ## Screenshots
 
 ![App Screenshot](assets/Doc/demostraçao.png)
-
+[App Screenshot](assets/Doc/aboutme.png)
+[App Screenshot](assets/Doc/service.png)
+[App Screenshot](assets/Doc/project.png)
+[App Screenshot](assets/Doc/contanct.png)
+[App Screenshot](assets/Doc/mobile.png)
 
 ## Funcionalidades
 
@@ -25,6 +29,12 @@ Para fazer o deploy desse projeto rode
   git clone (URL DO PROJETO)
 ```
 
+## 🛠 Habilidades
+Javascript, HTML, CSS
+
+## Demonstração
+
+[Veja aqui o projeto!](https://new-portifolio-orcin.vercel.app/)
 
 ## Autores
 
